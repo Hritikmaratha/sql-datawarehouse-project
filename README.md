@@ -1,6 +1,6 @@
 # sql-data-Warehouse project
 
-Build a Modern Data Warehouse with mysql including ETL Processes , data modelling and analytics
+Build a Modern Data Warehouse with Microsoft SQL Server including ETL Processes , data modelling and analytics
 
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
 

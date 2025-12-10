@@ -1,6 +1,8 @@
 
 ============================================
 Store Procedure : To load Bronze Layer (Source --> Bronze)
+Use :
+    exec bronze.load_bronze
 ============================================
 
 

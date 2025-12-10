@@ -1,3 +1,9 @@
+=======================================
+Create Schema and Table in bronze layer
+=======================================
+
+
+
 if OBJECT_ID ('bronze.crm_cust_info','U') IS NOT NULL
   DROP TABLE bronze.crm_cust_info;
 create table bronze.crm_cust_info(
